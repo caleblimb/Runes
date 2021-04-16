@@ -1,6 +1,8 @@
 # Runes 
 
-This is a 2D game engine. Rendering is CPU based and uses pixel arrays for graphical assests and the screen. Collision detection and path-finding is complete as well as projectiles and the mini map. A particle system is used for projectiles and footsteps.
+This is a 2D game engine. Rendering and other calculations are all CPU based. System compatibility should not be an issue as long as you can run java as all of the code is self contained and only uses built-in Java libraries.
+
+Almost all of the code in this project was written from scratch. The rendering and some of the simple game mechanics are based on [The Cherno](https://www.youtube.com/c/TheChernoProject)'s [Game Programming Tutorial](https://youtube.com/playlist?list=PLlrATfBNZ98c-CeNT-q_Z7ox3R_eIkF98).
 
 # Development Environment
 
